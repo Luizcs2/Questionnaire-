@@ -1,6 +1,6 @@
-# MUQuest - Questionnaire Designer
+Questionnaire Designer
 
-**MUQuest** is a comprehensive tool designed for creating, managing, and analyzing questionnaires. This application provides a user-friendly interface for designing questionnaires, collecting responses, and visualizing data through various types of charts and tables. It's a valuable tool for researchers, educators, and businesses who need to gather and analyze feedback efficiently.
+This is a comprehensive tool designed for creating, managing, and analyzing questionnaires. This application provides a user-friendly interface for designing questionnaires, collecting responses, and visualizing data through various types of charts and tables. It's a valuable tool for researchers, educators, and businesses who need to gather and analyze feedback efficiently.
 
 ## Prerequisites
 
